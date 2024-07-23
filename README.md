@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alidost-mm
+- 👀 I’m interested in Programming and technology
+- 🌱 I’m currently learning python
+- 📫 How to reach me : alidost.codeman@gmail.com
+- ⚡ Fun fact: I wear glasses
